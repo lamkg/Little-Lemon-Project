@@ -1,9 +1,9 @@
 import React, { useState } from "react";
-import logo from '../little-lemon-assets/LemonLogo.png'
+import logo from '../assets/Logo.png'
 
 const Nav = () => {
     return (
-        <img src ={logo} alt ='picture of lemon logo'/>
+        <img src ={logo} alt ='lemon logo'/>
     )
 }
 
