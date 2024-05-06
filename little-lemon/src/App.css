@@ -246,6 +246,11 @@ footer ul li{
   padding: 8px 0;
 }
 
+.social-icon {
+  width: 20px;
+  height: 20px;
+}
+
 
 /*CSS rules for mobile*/
 @media screen and (max-width: 768px){
